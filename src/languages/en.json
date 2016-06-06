@@ -1,0 +1,48 @@
+{
+    "app": {
+        "welcome": "Terminal",
+        "swift_card": "Swipe your chipcard"
+    },
+    "general": {
+        "TERMINAL": "TERMINAL",
+        "User": "User",
+        "AUTHORIZATION_OF_FOREMAN": "AUTHORIZATION OF FOREMAN",
+        "Cancel": "Cancel",
+        "Approve": "Approve",
+        "Choose_a_line": "Choose a line",
+        "Choose_an_action": "Choose an action",
+        "Choose_an_position": "Choose a position",
+        "Confirmation": "Confirmation",
+        "Are_you_sure_you_want_to_end_work_on_the_position": "Are you sure you want to end work on the position?",
+        "YES": "YES",
+        "NO": "NO",
+        "Choose_a_position": "Choose a position",
+        "Operation_successfull": "Operation was successfull",
+        "Logoff_countdown": "You are going to be log off in ",
+        "Warning": "Warning"
+
+    },
+    "options": {
+        "OPTION_LOGIN": "LOGIN",
+        "OPTION_LOGOUT": "LOGOUT",
+        "OPTION_BACK": "BACK",
+        "OPTION_HOME": "HOME",
+        "OPTION_START_WORK": "START WORK",
+        "OPTION_END_WORK": "END WORK",
+        "OPTION_SELECT_LINE": "SELECT A LINE",
+        "OPTION_SELECT_POSITION": "SELECT A POSITION",
+        "OPTION_REPORT_ERROR_ELECTRIC": "REPORT ERROR ELECTRIC",
+        "OPTION_REPORT_ERROR_MECHANIC": "REPORT ERROR MECHANIC",
+        "OPTION_START_TEMPORARY": "START WORK TEMPORARY",
+        "OPTION_END_WORK_ON_POSITION": "END WORK ON POSITION",
+        "OPTION_END_WORK_ON_LINE": "END WORK ON LINE",
+        "OPTION_START_REWORK": "START REWORK",
+        "OPTION_END_REWORK": "END REWORK",
+        "OPTION_START_TEST_WORK": "START TEST WORK",
+        "OPTION_END_TEST_WORK": "END TEST WORK",
+        "OPTION_START_REPAIR": "START REPAIR",
+        "OPTION_END_REPAIR": "END REPAIR",
+        "OPTION_INSTALL_TERMINAL": "INSTALL TERMINAL",
+        "OPTION_RESET_TERMINAL": "RESET TERMINAL"
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "app": {
+        "welcome": "Terminal",
+        "swift_card": "Přiložte autorizační kartu"
+    },
+    "general": {
+        "TERMINAL": "TERMINÁL",
+        "User": "Uživatel",
+        "AUTHORIZATION_OF_FOREMAN": "AUTORIZACE PŘEDÁKA",
+        "Cancel": "Zrušit",
+        "Approve": "Schválit",
+        "Choose_a_line": "Vyberte linku",
+        "Choose_an_action": "Vyberte akci",
+        "Choose_an_position": "Vyberte pozici",
+        "Confirmation": "Potvrzení",
+        "Are_you_sure_you_want_to_end_work_on_the_position": "Chcete ukončit pozici?",
+        "YES": "ANO",
+        "NO": "NE",
+        "Choose_a_position": "Vyberte pozici",
+        "Operation_successfull": "Operace proběhla úspěšně",
+        "Logoff_countdown": "Budete automaticky odhlášeni za ",
+        "Warning": "Upozornění",
+        "Action": "Akce",
+        "was_success": " byla úspěšná.",
+        "failed": " selhala."
+    },
+    "options": {
+        "OPTION_LOGIN": "PŘIHLÁSIT",
+        "OPTION_LOGOUT": "ODHLÁSIT",
+        "OPTION_BACK": "ZPĚT",
+        "OPTION_HOME": "START",
+        "OPTION_START_WORK": "ZAČÍT PRÁCI",
+        "OPTION_END_WORK": "UKONČIT PRÁCI",
+        "OPTION_SELECT_LINE": "VYBER LINKU",
+        "OPTION_SELECT_POSITION": "VYBER POZICI",
+        "OPTION_REPORT_ERROR_ELECTRIC": "NAHLÁSIT CHYBU ELEKRICKOU",
+        "OPTION_REPORT_ERROR_MECHANIC": "NAHLÁSIT CHYBU MECHANICKOU",
+        "OPTION_START_TEMPORARY": "DOČASNĚ PŘIHLÁSIT OPERÁTORA",
+        "OPTION_END_WORK_ON_POSITION": "UKONČIT PRÁCI NA POZICI",
+        "OPTION_END_WORK_ON_LINE": "UKONČIT PRÁCI NA LINCE",
+        "OPTION_START_REWORK": "ZAČÍT REWORK",
+        "OPTION_END_REWORK": "UKONČIT REWORK",
+        "OPTION_START_TEST_WORK": "ZAČÍT TESTOVÁNÍ",
+        "OPTION_END_TEST_WORK": "UKONČIT TESTOVÁNÍ",
+        "OPTION_START_REPAIR": "ZAČÍT OPRAVU",
+        "OPTION_END_REPAIR": "UKONČIT OPRAVU",
+        "OPTION_INSTALL_TERMINAL": "INSTALOVAT TERMINÁL",
+        "OPTION_RESET_TERMINAL": "RESETOVAT TERMINÁL"
+    }
+}
